@@ -1,0 +1,10 @@
+C:\Users\gmlik\source\repos\Game15\Game15\bin\Debug\Game15.exe.config
+C:\Users\gmlik\source\repos\Game15\Game15\bin\Debug\Game15.exe
+C:\Users\gmlik\source\repos\Game15\Game15\bin\Debug\Game15.pdb
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.exe
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.pdb
+C:\Users\gmlik\source\repos\Game15\Game15\obj\Debug\Game15.Game15.resources
